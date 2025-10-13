@@ -1,0 +1,2 @@
+# Only these users can approve and merge PRs (when branch protection requires Code Owners).
+@kshitijs25 @natsuset @asahasrabuddhe
